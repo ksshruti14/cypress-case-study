@@ -1,6 +1,6 @@
 # Plug-ins
 - Cypress-Cucumber-preprocessor
-- Browerify
+- Browserify
 - Visual studio cucumber BDD plug-in
 - Cypress cucumber(Gherkin) full support
 - Cucumber preprocessor JSON formatter
