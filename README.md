@@ -6,7 +6,7 @@
 - Cucumber preprocessor JSON formatter
 
 # Framework
-**Fixtures** -> contains Data files
+**Fixtures** -> contains Data files <br />
 **example.json ** -> has all the data related to event registration 
 **integration** -> contains cypress specs, BDD test files and PageObjects 
 **EventRegistration.feature** file has both positive ad negative scenarios related to the Event Registration workflow
