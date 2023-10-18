@@ -7,7 +7,7 @@
 
 # Framework
 Fixtures -- contains Data files 
--- **example.json** file has all the data related to event registration
+-- example.json file has all the data related to event registration
 -- **integration** -- contains cypress specs, BDD test files and PageObjects
 **EventRegistration.feature** file has both positive ad negative scenarios related to the Event Registration workflow
 **EventRegistration -> EventRegistration.js** is a step definition file 
